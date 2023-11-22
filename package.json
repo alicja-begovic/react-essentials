@@ -15,5 +15,16 @@
     "vite": "^4.3.9"
   },
   "keywords": [],
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicja-begovic/react-essentials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicja-begovic/react-essentials/issues"
+  },
+  "homepage": "https://github.com/alicja-begovic/react-essentials#readme",
   "description": ""
 }
