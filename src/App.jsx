@@ -1,13 +1,14 @@
 import { Fragment } from "react";
 
-import Header from "./components/Header";
+import Header from "./components/Header/Header";
+import CoreConcepts from "./components/CoreConcepts";
 
 function App() {
   return (
     <Fragment>
       <Header />
       <main>
-        <h2>Time to get started!</h2>
+        <CoreConcepts />
       </main>
     </Fragment>
   );
